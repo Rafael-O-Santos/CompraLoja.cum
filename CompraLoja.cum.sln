@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompraLoja.cum", "CompraLoja.cum\CompraLoja.cum.csproj", "{C73E4DA9-4E18-4600-9341-504721E4D724}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piloto", "Piloto\Piloto.csproj", "{9BAA8A09-9AA9-4080-ADC1-3D561A012DAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sonic.Ex", "Sonic.Ex\Sonic.Ex.csproj", "{693EA4EF-5EA3-4A58-BD88-38592DD7EA8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SonicoVaiAsCompras.ExE", "SonicoVaiAsCompras.ExE\SonicoVaiAsCompras.ExE.csproj", "{9A6A6508-1C55-4472-B945-784A10CDD5D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SonicoAprendeaTabuada.ExE", "SonicoAprendeaTabuada.ExE\SonicoAprendeaTabuada.ExE.csproj", "{02D9B02A-4645-4B92-9FDF-1D9D105CA332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonico - Vende Terrenos", "Sonico - Vende Terrenos\Sonico - Vende Terrenos.csproj", "{7AE90858-35DC-4E55-806F-2F8555EE14B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C73E4DA9-4E18-4600-9341-504721E4D724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73E4DA9-4E18-4600-9341-504721E4D724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73E4DA9-4E18-4600-9341-504721E4D724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73E4DA9-4E18-4600-9341-504721E4D724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAA8A09-9AA9-4080-ADC1-3D561A012DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAA8A09-9AA9-4080-ADC1-3D561A012DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAA8A09-9AA9-4080-ADC1-3D561A012DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAA8A09-9AA9-4080-ADC1-3D561A012DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693EA4EF-5EA3-4A58-BD88-38592DD7EA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693EA4EF-5EA3-4A58-BD88-38592DD7EA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693EA4EF-5EA3-4A58-BD88-38592DD7EA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693EA4EF-5EA3-4A58-BD88-38592DD7EA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6A6508-1C55-4472-B945-784A10CDD5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6A6508-1C55-4472-B945-784A10CDD5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6A6508-1C55-4472-B945-784A10CDD5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6A6508-1C55-4472-B945-784A10CDD5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D9B02A-4645-4B92-9FDF-1D9D105CA332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D9B02A-4645-4B92-9FDF-1D9D105CA332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D9B02A-4645-4B92-9FDF-1D9D105CA332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D9B02A-4645-4B92-9FDF-1D9D105CA332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE90858-35DC-4E55-806F-2F8555EE14B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE90858-35DC-4E55-806F-2F8555EE14B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE90858-35DC-4E55-806F-2F8555EE14B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE90858-35DC-4E55-806F-2F8555EE14B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9800A0-1E86-4F38-8D36-4DDEE0BC5D35}
+	EndGlobalSection
+EndGlobal
